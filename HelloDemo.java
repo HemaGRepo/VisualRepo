@@ -11,6 +11,7 @@ public class HelloDemo {
 			System.out.println("Executing ..."+cntr);
 		}
 		System.out.println("******* Thanks for using GitHub **************");
+		System.out.println("--------------Demo Ends here--------------------");
 
 	}
 
